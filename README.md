@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F3E5&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&&pause=1000&center=true&vCenter=true&width=1020&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil.)](https://git.io/typing-svg)
 <div style="display: inline_block" align="center"><br>
+  
+  
   <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="João-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="João-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
